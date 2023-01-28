@@ -4,7 +4,7 @@ import requests
 import json
 from discord.ext import commands
 # Authenticate with OpenAI API
-openai_api_key = "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"
+openai_api_key = "TOKEN"
 
 # Define a function to generate a response to a message
 def generate_response(prompt):
@@ -41,5 +41,5 @@ async def on_message(message):
         except:
             await message.channel.send("ERROR please try again")
 # Run the bot
-discord_token = "OTk5MDAwNTQ2ODkzNjM5NzUz.G5yDTK.V-p8ZfTxm4U3XRIk2ph1C6iEEMSzuL6CbMz-J0"
+discord_token = "TOKEN"
 client.run(discord_token)
