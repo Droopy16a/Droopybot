@@ -224,7 +224,219 @@
       "question": "Quelle est la monnaie du Mexique ?",
       "options": ["Peso", "Bolivar"],
       "answer": "Peso"
-    }
+    },
+      {
+    "question": "Quelle est la capitale de l'Argentine ?",
+    "options": ["Buenos Aires", "Rio de Janeiro"],
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "Qui a écrit 'Le Comte de Monte-Cristo' ?",
+    "options": ["Alexandre Dumas", "Victor Hugo"],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "question": "Quel est le plus grand lac d'Australie ?",
+    "options": ["Lac Eyre", "Lac Gairdner"],
+    "answer": "Lac Eyre"
+  },
+  {
+    "question": "Quelle est la monnaie de l'Afrique du Sud ?",
+    "options": ["Rand", "Kwacha"],
+    "answer": "Rand"
+  },
+  {
+    "question": "Quel est le plus grand volcan actif du monde ?",
+    "options": ["Mauna Loa", "Vésuve"],
+    "answer": "Mauna Loa"
+  },
+  {
+    "question": "Qui a peint 'La Nuit étoilée' ?",
+    "options": ["Vincent van Gogh", "Pablo Picasso"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "Quelle est la plus grande île du continent africain ?",
+    "options": ["Madagascar", "Île de Zanzibar"],
+    "answer": "Madagascar"
+  },
+  {
+    "question": "Quel est le plus grand lac d'Amérique centrale ?",
+    "options": ["Lac de Nicaragua", "Lac de Managua"],
+    "answer": "Lac de Nicaragua"
+  },
+  {
+    "question": "Quelle est la monnaie du Japon ?",
+    "options": ["Yen", "Won"],
+    "answer": "Yen"
+  },
+  {
+    "question": "Quel est le plus grand désert froid du monde ?",
+    "options": ["Antarctique", "Désert de Gobi"],
+    "answer": "Antarctique"
+  },
+  {
+    "question": "Qui a découvert l'Amérique ?",
+    "options": ["Christophe Colomb", "Marco Polo"],
+    "answer": "Christophe Colomb"
+  },
+  {
+    "question": "Quelle est la plus grande chaîne de montagnes du monde ?",
+    "options": ["Himalaya", "Andes"],
+    "answer": "Himalaya"
+  },
+  {
+    "question": "Quel est le plus grand lac d'Amérique du Sud ?",
+    "options": ["Lac Titicaca", "Lac Maracaibo"],
+    "answer": "Lac Titicaca"
+  },
+  {
+    "question": "Quelle est la monnaie du Nigeria ?",
+    "options": ["Naira", "Cedi"],
+    "answer": "Naira"
+  },
+  {
+    "question": "Qui a écrit 'Les Trois Mousquetaires' ?",
+    "options": ["Victor Hugo", "Alexandre Dumas"],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "question": "Quel est le plus grand lac d'Europe ?",
+    "options": ["Lac Ladoga", "Lac de Genève"],
+    "answer": "Lac Ladoga"
+  },
+  {
+    "question": "Quelle est la capitale du Maroc ?",
+    "options": ["Casablanca", "Rabat"],
+    "answer": "Rabat"
+  },
+  {
+    "question": "Qui a écrit 'Le Seigneur des Anneaux' ?",
+    "options": ["J.K. Rowling", "J.R.R. Tolkien"],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "Quel est le plus grand lac d'Asie ?",
+    "options": ["Caspian Sea", "Lac Baïkal"],
+    "answer": "Caspian Sea"
+  },
+  {
+    "question": "Quelle est la monnaie de l'Indonésie ?",
+    "options": ["Roupie indonésienne", "Ringgit"],
+    "answer": "Roupie indonésienne"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "options": ["Atlantique", "Pacifique"],
+    "answer": "Pacifique"
+  },
+  {
+    "question": "Quelle est la capitale de la Turquie ?",
+    "options": ["Istanbul", "Ankara"],
+    "answer": "Ankara"
+  },
+  {
+    "question": "Qui a écrit 'Frankenstein' ?",
+    "options": ["Mary Shelley", "Bram Stoker"],
+    "answer": "Mary Shelley"
+  },
+  {
+    "question": "Quel est le plus grand lac du Moyen-Orient ?",
+    "options": ["Lac d'Ourmia", "Mer Morte"],
+    "answer": "Lac d'Ourmia"
+  },
+  {
+    "question": "Quelle est la monnaie de l'Arabie saoudite ?",
+    "options": ["Riyal", "Dinar"],
+    "answer": "Riyal"
+  },
+  {
+    "question": "Quel est le plus grand océan du monde ?",
+    "options": ["Atlantique", "Pacifique"],
+    "answer": "Pacifique"
+  },
+  {
+    "question": "Quelle est la capitale de la Corée du Sud ?",
+    "options": ["Pékin", "Séoul"],
+    "answer": "Séoul"
+  },
+  {
+    "question": "Qui a écrit 'Le Rouge et le Noir' ?",
+    "options": ["Gustave Flaubert", "Stendhal"],
+    "answer": "Stendhal"
+  },
+  {
+    "question": "Quel est le plus grand lac d'Amérique du Nord ?",
+    "options": ["Lac Supérieur", "Lac Michigan"],
+    "answer": "Lac Supérieur"
+  },
+  {
+    "question": "Quelle est la monnaie de l'Égypte ?",
+    "options": ["Livre égyptienne", "Dinar"],
+    "answer": "Livre égyptienne"
+  },
+  {
+    "question": "Quel est le plus grand parc national des États-Unis ?",
+    "options": ["Parc national de Yellowstone", "Parc national de Yosemite"],
+    "answer": "Parc national de Yellowstone"
+  },
+  {
+    "question": "Quelle est la plus grande ville du Canada ?",
+    "options": ["Montréal", "Toronto"],
+    "answer": "Toronto"
+  },
+  {
+    "question": "Qui a écrit 'Les Fleurs du Mal' ?",
+    "options": ["Charles Baudelaire", "Paul Verlaine"],
+    "answer": "Charles Baudelaire"
+  },
+  {
+    "question": "Quel est le plus grand lac du monde par superficie ?",
+    "options": ["Mer Caspienne", "Lac Supérieur"],
+    "answer": "Mer Caspienne"
+  },
+  {
+    "question": "Quelle est la capitale de l'Iran ?",
+    "options": ["Bagdad", "Téhéran"],
+    "answer": "Téhéran"
+  },
+  {
+    "question": "Qui a écrit 'Les Misérables' ?",
+    "options": ["Charles Dickens", "Victor Hugo"],
+    "answer": "Victor Hugo"
+  },
+  {
+    "question": "Quel est le plus grand désert chaud du monde ?",
+    "options": ["Sahara", "Arabie"],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Quelle est la monnaie de la Chine ?",
+    "options": ["Yuan", "Yen"],
+    "answer": "Yuan"
+  },
+  {
+    "question": "Quel est le plus grand volcan inactif du monde ?",
+    "options": ["Mont Kilimandjaro", "Mauna Kea"],
+    "answer": "Mauna Kea"
+  },
+  {
+    "question": "Qui a peint 'Les Demoiselles d'Avignon' ?",
+    "options": ["Pablo Picasso", "Vincent van Gogh"],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "question": "Quelle est la plus grande île de la Méditerranée ?",
+    "options": ["Sicile", "Corse"],
+    "answer": "Sicile"
+  },
+  {
+    "question": "Quel est le plus grand lac du Royaume-Uni ?",
+    "options": ["Lac Lomond", "Lac de Windermere"],
+    "answer": "Lac de Windermere"
+  }
+]
+
     ]
   }
   
