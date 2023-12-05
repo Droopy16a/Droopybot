@@ -1,0 +1,8 @@
+{
+    "quizzes": [
+      {
+        "question": "Quelle est la capitale de l'Espagne ?",
+        "options": ["Madrid", "Rome"],
+        "answer": "Madrid"
+      }]
+}
