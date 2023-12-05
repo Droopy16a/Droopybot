@@ -1,0 +1,229 @@
+{
+  "quizzes": [
+    {
+      "question": "Quelle est la capitale de l'Espagne ?",
+      "options": ["Madrid", "Rome"],
+      "answer": "Madrid"
+    },
+    {
+      "question": "Qui a écrit 'Hamlet' ?",
+      "options": ["Jane Austen", "William Shakespeare"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Quel est le plus grand désert du monde ?",
+      "options": ["Sahara", "Antarctique"],
+      "answer": "Antarctique"
+    },
+    {
+      "question": "Quelle est la monnaie du Japon ?",
+      "options": ["Yen", "Won"],
+      "answer": "Yen"
+    },
+    {
+      "question": "Quelle est la plus grande planète du système solaire ?",
+      "options": ["Vénus", "Jupiter"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Qui a peint 'La Joconde' ?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Quel est le plus haut sommet du monde ?",
+      "options": ["Everest", "K2"],
+      "answer": "Everest"
+    },
+    {
+      "question": "Quelle est la plus grande île du monde ?",
+      "options": ["Australie", "Groenland"],
+      "answer": "Groenland"
+    },
+    {
+      "question": "Qui a découvert la gravité ?",
+      "options": ["Isaac Newton", "Galilée"],
+      "answer": "Isaac Newton"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": ["Atlantique", "Pacifique"],
+      "answer": "Pacifique"
+    },
+    {
+      "question": "Quelle est la langue officielle du Brésil ?",
+      "options": ["Espagnol", "Portugais"],
+      "answer": "Portugais"
+    },
+    {
+      "question": "Qui a écrit 'Les Misérables' ?",
+      "options": ["Charles Dickens", "Victor Hugo"],
+      "answer": "Victor Hugo"
+    },
+    {
+      "question": "Quelle est la plus grande ville du monde en population ?",
+      "options": ["Pékin", "Tokyo"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Quel est le plus grand lac d'Afrique ?",
+      "options": ["Lac Victoria", "Lac Tanganyika"],
+      "answer": "Lac Victoria"
+    },
+    {
+      "question": "Quelle est la monnaie de l'Inde ?",
+      "options": ["Roupie", "Ringgit"],
+      "answer": "Roupie"
+    },
+    {
+      "question": "Quel est le plus grand animal terrestre ?",
+      "options": ["Éléphant", "Rhinocéros"],
+      "answer": "Éléphant"
+    },
+    {
+      "question": "Qui a inventé l'ampoule électrique ?",
+      "options": ["Thomas Edison", "Nikola Tesla"],
+      "answer": "Thomas Edison"
+    },
+    {
+      "question": "Quel est le plus grand fleuve du monde ?",
+      "options": ["Nil", "Amazone"],
+      "answer": "Amazone"
+    },
+    {
+      "question": "Quelle est la capitale de l'Italie ?",
+      "options": ["Rome", "Athènes"],
+      "answer": "Rome"
+    },
+    {
+      "question": "Qui a écrit 'Orgueil et Préjugés' ?",
+      "options": ["Emily Brontë", "Jane Austen"],
+      "answer": "Jane Austen"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": ["Atlantique", "Pacifique"],
+      "answer": "Pacifique"
+    },
+    {
+      "question": "Quelle est la capitale du Canada ?",
+      "options": ["Ottawa", "Toronto"],
+      "answer": "Ottawa"
+    },
+    {
+      "question": "Qui a écrit 'Don Quichotte' ?",
+      "options": ["Miguel de Cervantes", "Leo Tolstoï"],
+      "answer": "Miguel de Cervantes"
+    },
+    {
+      "question": "Quel est le plus grand mammifère marin ?",
+      "options": ["Baleine bleue", "Orque"],
+      "answer": "Baleine bleue"
+    },
+    {
+      "question": "Quelle est la plus grande île du monde ?",
+      "options": ["Australie", "Groenland"],
+      "answer": "Groenland"
+    },
+    {
+      "question": "Qui a écrit 'Crime et Châtiment' ?",
+      "options": ["Fiodor Dostoïevski", "Honoré de Balzac"],
+      "answer": "Fiodor Dostoïevski"
+    },
+    {
+      "question": "Quelle est la plus haute montagne d'Europe ?",
+      "options": ["Mont Blanc", "Elbrouz"],
+      "answer": "Elbrouz"
+    },
+    {
+      "question": "Quel est le plus grand océan du monde ?",
+      "options": ["Atlantique", "Pacifique"],
+      "answer": "Pacifique"
+    },
+    {
+      "question": "Quelle est la capitale de l'Australie ?",
+      "options": ["Sydney", "Canberra"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Qui a écrit 'Anna Karénine' ?",
+      "options": ["Leo Tolstoï", "Fiodor Dostoïevski"],
+      "answer": "Leo Tolstoï"
+    },
+    {
+      "question": "Quel est le plus grand désert chaud du monde ?",
+      "options": ["Sahara", "Arabie"],
+      "answer": "Sahara"
+    },
+    {
+      "question": "Quelle est la monnaie du Royaume-Uni ?",
+      "options": ["Euro", "Livre sterling"],
+      "answer": "Livre sterling"
+    },
+    {
+      "question": "Qui a peint 'Les Nymphéas' ?",
+      "options": ["Claude Monet", "Pablo Picasso"],
+      "answer": "Claude Monet"
+    },
+    {
+      "question": "Quelle est la plus grande île d'Asie ?",
+      "options": ["Java", "Sumatra"],
+      "answer": "Java"
+    },
+    {
+      "question": "Qui a découvert la pénicilline ?",
+      "options": ["Alexander Fleming", "Marie Curie"],
+      "answer": "Alexander Fleming"
+    },
+    {
+      "question": "Quel est le plus grand canyon du monde ?",
+      "options": ["Grand Canyon", "Barranca del Cobre"],
+      "answer": "Grand Canyon"
+    },
+    {
+      "question": "Quelle est la capitale de la Chine ?",
+      "options": ["Pékin", "Shanghai"],
+      "answer": "Pékin"
+    },
+    {
+      "question": "Qui a écrit 'Le Petit Prince' ?",
+      "options": ["Antoine de Saint-Exupéry", "J.K. Rowling"],
+      "answer": "Antoine de Saint-Exupéry"
+    },
+    {
+      "question": "Quel est le plus grand lac d'Amérique du Nord ?",
+      "options": ["Lac Supérieur", "Lac Michigan"],
+      "answer": "Lac Supérieur"
+    },
+    {
+      "question": "Quelle est la monnaie de la Russie ?",
+      "options": ["Dollar", "Rouble"],
+      "answer": "Rouble"
+    },
+    {
+      "question": "Quel est le plus grand parc national du monde ?",
+    "options": ["Parc national de Northeast Greenland", "Parc national de Wrangell-St. Elias"],
+    "answer": "Parc national de Northeast Greenland"
+  },
+  {
+    "question": "Quelle est la plus grande ville du Brésil ?",
+    "options": ["Rio de Janeiro", "São Paulo"],
+    "answer": "São Paulo"
+  },
+  {
+    "question": "Qui a écrit 'L'Odyssée' ?",
+    "options": ["Homère", "Virgile"],
+    "answer": "Homère"
+  },
+  {
+    "question": "Quel est le plus grand lac d'Amérique du Sud ?",
+    "options": ["Lac Titicaca", "Lac Maracaibo"],
+    "answer": "Lac Titicaca"
+  },
+  {
+    "question": "Quelle est la monnaie du Mexique ?",
+    "options": ["Peso", "Bolivar"],
+    "answer": "Peso"
+  }
+  ]
+}
